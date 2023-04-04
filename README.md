@@ -15,7 +15,7 @@ To use this code, simply import the Protection.h header file and create an insta
 
 # Example
 
-```c
+```objective-c
 #import "Protection.h"
 
 @interface MyProtectedClass : ProtectedClass
